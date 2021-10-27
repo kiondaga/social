@@ -13,6 +13,7 @@ body{
     background-color: var(--oaGrey2);
     margin: 0px;
     min-height: 100vh;
+    font-display: swap;
 }
 
 #userPhoto{
