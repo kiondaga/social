@@ -12,6 +12,7 @@
 body{
     background-color: var(--oaGrey2);
     margin: 0px;
+    min-height: 100vh;
 }
 
 #userPhoto{
@@ -72,7 +73,10 @@ footer{
     color: white;
     position: absolute;
     bottom: 0;
+/*    margin: 0;*/
+    padding: 0;
     width: 100%;
+/*    min-height: 100vh;*/
 }
 
 a{
