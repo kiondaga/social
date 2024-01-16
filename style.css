@@ -14,6 +14,8 @@ body{
     margin: 0px;
     min-height: 100vh;
     font-display: swap;
+	margin-bottom: 100px;
+	clear: both;
 }
 
 #userPhoto{
