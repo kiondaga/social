@@ -73,13 +73,14 @@ footer{
     font-weight: 300;
     text-align: center;
     background-color: var(--oaGrey);
-    color: white;
+    color: var(--oaWhite);
     position: fixed;
     bottom: 0;
     left: 0;
     right: 0;
     z-index: 1030;
     padding: 0;
+    border-top: 1px solid var(--oaGrey2);
 }
 
 a{
